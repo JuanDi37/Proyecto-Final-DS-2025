@@ -2,9 +2,11 @@ Predicción Binaria de Diabetes – Proyecto Final
 
 
 i. Problema a resolver
+
 El objetivo de este proyecto es desarrollar un modelo de clasificación binaria que permita predecir si una persona tiene o está en riesgo de tener diabetes (prediabetes o diabetes), con base en variables relacionadas a su salud y estilo de vida. Esta predicción puede ser útil para implementar medidas preventivas y apoyar decisiones médicas en etapas tempranas.
 
 ii. Dataset utilizado
+
 Fuente: Encuesta BRFSS 2015 del CDC (disponible en Kaggle).
 
 Cantidad de observaciones: 253,680 personas encuestadas.
